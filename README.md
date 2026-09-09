@@ -132,12 +132,6 @@ The main objective of this project is to demonstrate how machine learning can be
 * Deploy the model as an API
 * Add interactive visualizations
 
-## 👨‍💻 Author
 
-**Your Name**
-
-GitHub: https://github.com/your-username
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
